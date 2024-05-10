@@ -1,0 +1,4 @@
+﻿  ArrayArticulos.cpp
+C:\Users\marif\OneDrive\Documentos\Arreglos_Articulos\Arreglos_Articulos\ArrayArticulos.cpp(35,30): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\marif\OneDrive\Documentos\Arreglos_Articulos\Arreglos_Articulos\ArrayArticulos.cpp(115,9): warning C4101: 'n': variable local sin referencia
+  Arreglos_Articulos.vcxproj -> C:\Users\marif\OneDrive\Documentos\Arreglos_Articulos\x64\Debug\Arreglos_Articulos.exe
